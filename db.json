@@ -1,8 +1,25 @@
 {
   "login": [
-   {
-    "id": "admin",
-    "passWord": "12345678"
-   }
+    {
+      "id": "admin",
+      "passWord": "12345678"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Mac",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-mac-nav-202310?wid=400&hei=260&fmt=png-alpha&.v=1696964122666"
+    },
+    {
+      "id": 2,
+      "name": "iPhone",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-iphone-nav-202309_GEO_US?wid=400&hei=260&fmt=png-alpha&.v=1692971740190"
+    },
+    {
+      "id": 3,
+      "name": "iPad",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-ipad-nav-202405?wid=400&hei=260&fmt=png-alpha&.v=1714168620875"
+    }
   ]
 }
